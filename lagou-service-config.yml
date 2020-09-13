@@ -11,7 +11,7 @@ config:
   code:
     validate:
       #expire: 600
-      expire: 10
+      expire: 30
   email:
     host: smtp.163.com
     sender:
